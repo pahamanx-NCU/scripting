@@ -1,0 +1,2 @@
+# scripting
+powershell bush scripting
